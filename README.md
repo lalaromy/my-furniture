@@ -1,5 +1,6 @@
 # Design your table
 
-=> Three.js
-=> Link: 
+With Three.js
+
+Link: design-your-table.netlify.app
 
