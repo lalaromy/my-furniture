@@ -2,5 +2,5 @@
 
 With Three.js
 
-Link: design-your-table.netlify.app
+Link: https://design-your-table.netlify.app/
 
